@@ -1,10 +1,3 @@
-# Notes:
-- [Palindrome Checker](https://github.com/JeremyEtan/freeCodeCamp-Projects/new/master/JavaScript%20Algorithms%20and%20Data%20Structures#palindrome-checker)
-- [Roman Numeral Converter](https://github.com/JeremyEtan/freeCodeCamp-Projects/new/master/JavaScript%20Algorithms%20and%20Data%20Structures#roman-numeral-converter)
-- [Ceasers Cipher](https://github.com/JeremyEtan/freeCodeCamp-Projects/new/master/JavaScript%20Algorithms%20and%20Data%20Structures#ceasers-cipher)
-- [Telephone Number Validator](https://github.com/JeremyEtan/freeCodeCamp-Projects/new/master/JavaScript%20Algorithms%20and%20Data%20Structures#telephone-number-validator)
-- [Cash Register](https://github.com/JeremyEtan/freeCodeCamp-Projects/new/master/JavaScript%20Algorithms%20and%20Data%20Structures#cash-register)
-
 ## Palindrome Checker
 Return true if the given string is a palindrome. Otherwise, return false.
 
