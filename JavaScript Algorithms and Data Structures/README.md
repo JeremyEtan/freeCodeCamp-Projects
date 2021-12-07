@@ -1,3 +1,6 @@
+# Notes
+- [Palindrome Checker](https://github.com/jeremyetan/freeCodeCampProjects/tree/freeCodeCamp/JavaScript%20Algorithms%20and%20Data%20Structures#palindrome-checker)
+
 ## Palindrome Checker
 Return true if the given string is a palindrome. Otherwise, return false.
 
