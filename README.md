@@ -1,4 +1,4 @@
-## Note
+# Note
 This is my solution to freeCodeCamp's JavaScript Algorithms and Data Structures projects.
 
 ## Palindrome Checker
