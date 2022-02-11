@@ -1,6 +1,10 @@
-# Note
+# [freeCodeCamp JavaScript Algorithms and Data Structures Projects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects)
 
-This is my solution to freeCodeCamp's JavaScript Algorithms and Data Structures projects.
+- [Palindrome Checker](https://github.com/jeremiey/freeCodeCamp-project/edit/main/README.md#palindrome-checker)
+- [Roman Numeral Converter](https://github.com/jeremiey/freeCodeCamp-project/edit/main/README.md#roman-numeral-converter)
+- [Caesars Cipher](https://github.com/jeremiey/freeCodeCamp-project/edit/main/README.md#caesars-cipher)
+- [Telephone Number Validator](https://github.com/jeremiey/freeCodeCamp-project/edit/main/README.md#telephone-number-validator)
+- [Cash Register](https://github.com/jeremiey/freeCodeCamp-project/edit/main/README.md#cash-register)
 
 ## Palindrome Checker
 
